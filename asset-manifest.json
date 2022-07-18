@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/monisite-test/static/css/main.c5c1c100.chunk.css",
+    "main.js": "/monisite-test/static/js/main.92943c6f.chunk.js",
+    "main.js.map": "/monisite-test/static/js/main.92943c6f.chunk.js.map",
+    "runtime-main.js": "/monisite-test/static/js/runtime-main.dea6b7ec.js",
+    "runtime-main.js.map": "/monisite-test/static/js/runtime-main.dea6b7ec.js.map",
+    "static/css/2.27c67e9f.chunk.css": "/monisite-test/static/css/2.27c67e9f.chunk.css",
+    "static/js/2.bd9a919d.chunk.js": "/monisite-test/static/js/2.bd9a919d.chunk.js",
+    "static/js/2.bd9a919d.chunk.js.map": "/monisite-test/static/js/2.bd9a919d.chunk.js.map",
+    "static/js/3.751598b6.chunk.js": "/monisite-test/static/js/3.751598b6.chunk.js",
+    "static/js/3.751598b6.chunk.js.map": "/monisite-test/static/js/3.751598b6.chunk.js.map",
+    "index.html": "/monisite-test/index.html",
+    "static/css/2.27c67e9f.chunk.css.map": "/monisite-test/static/css/2.27c67e9f.chunk.css.map",
+    "static/css/main.c5c1c100.chunk.css.map": "/monisite-test/static/css/main.c5c1c100.chunk.css.map",
+    "static/js/2.bd9a919d.chunk.js.LICENSE.txt": "/monisite-test/static/js/2.bd9a919d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dea6b7ec.js",
+    "static/css/2.27c67e9f.chunk.css",
+    "static/js/2.bd9a919d.chunk.js",
+    "static/css/main.c5c1c100.chunk.css",
+    "static/js/main.92943c6f.chunk.js"
+  ]
+}
